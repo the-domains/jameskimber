@@ -1,0 +1,28 @@
+name: jameskimber
+favicon: null
+layout_spectrum: 0.264172914205119
+typography_spectrum: 0.26594627904705703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6945872532669455
+  lightness: 0.1359248028602451
+  saturation: 0.6777317835949361
+  rhythmicContrast: 0.9992994505446404
+purpose: []
